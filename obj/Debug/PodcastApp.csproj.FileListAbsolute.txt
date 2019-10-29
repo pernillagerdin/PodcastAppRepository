@@ -1,0 +1,10 @@
+C:\Users\perni\Desktop\C#Projekt\PodcasstApp\bin\Debug\PodcasstApp.exe.config
+C:\Users\perni\Desktop\C#Projekt\PodcasstApp\bin\Debug\PodcasstApp.exe
+C:\Users\perni\Desktop\C#Projekt\PodcasstApp\bin\Debug\PodcasstApp.pdb
+C:\Users\perni\Desktop\C#Projekt\PodcasstApp\obj\Debug\PodcastApp.csprojAssemblyReference.cache
+C:\Users\perni\Desktop\C#Projekt\PodcasstApp\obj\Debug\PodcastApp.PodcastAppGUI.resources
+C:\Users\perni\Desktop\C#Projekt\PodcasstApp\obj\Debug\PodcasstApp.Properties.Resources.resources
+C:\Users\perni\Desktop\C#Projekt\PodcasstApp\obj\Debug\PodcastApp.csproj.GenerateResource.cache
+C:\Users\perni\Desktop\C#Projekt\PodcasstApp\obj\Debug\PodcastApp.csproj.CoreCompileInputs.cache
+C:\Users\perni\Desktop\C#Projekt\PodcasstApp\obj\Debug\PodcasstApp.exe
+C:\Users\perni\Desktop\C#Projekt\PodcasstApp\obj\Debug\PodcasstApp.pdb
