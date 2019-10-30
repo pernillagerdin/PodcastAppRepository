@@ -48,6 +48,8 @@
   <ItemGroup>
     <Compile Include="BLL\Episode.cs" />
     <Compile Include="BLL\Podcast.cs" />
+    <Compile Include="BLL\Validation.cs" />
+    <Compile Include="BLL\XML_FileAccess.cs" />
     <Compile Include="PL\PodcastAppGUI.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -81,8 +83,9 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="DAL\" />
+    <Content Include="DAL\XML_Categories\Categories.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
